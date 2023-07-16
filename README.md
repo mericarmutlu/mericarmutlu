@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Meriç</h1>
 <h3 align="center">My hobby is dealing with software and turning this hobby into a profession. I especially like to write my own phone apps.</h3>
 
+- 💬 Ask me about **insta:mericmoment**
+
+- 📫 How to reach me **armutlu.meric@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/meriç-armutlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meriç-armutlu" height="30" width="40" /></a>
